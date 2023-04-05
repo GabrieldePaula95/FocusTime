@@ -48,6 +48,7 @@ button {
     cursor: pointer;
 }
 
+
 #controls {
     display: flex;
     gap: 4.0rem;
